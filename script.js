@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             // UPDATED FETCH URL
-            const response = await fetch(`${FLASK_SERVER_URL}/api/chat`, { 
+           const response = await fetch(FLASK_SERVER_URL, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
