@@ -1,0 +1,11 @@
+2025-05-26 23:51:42,046 - INFO - generate_image_captions_newone.py:62 - CapFilt: Loaded products data ((60, 8)) from '/Users/amankumar/Desktop/Aims/final data/products_final_with_all_image_paths.csv'
+2025-05-26 23:51:42,052 - INFO - generate_image_captions_newone.py:71 - CapFilt: Loaded relevant documents ((433, 5)) from '/Users/amankumar/Desktop/Aims/final data/all_documents.csv'
+2025-05-26 23:51:42,055 - INFO - generate_image_captions_newone.py:122 - Loaded 417 image records from all_product_images_info_scraped.csv.
+2025-05-26 23:51:42,055 - INFO - generate_image_captions_newone.py:98 - Loading BLIP model: Salesforce/blip-image-captioning-large...
+2025-05-26 23:51:42,055 - INFO - generate_image_captions_newone.py:100 - Using device: cpu for BLIP.
+2025-05-26 23:51:46,610 - INFO - generate_image_captions_newone.py:104 - BLIP model loaded.
+2025-05-26 23:51:46,610 - INFO - generate_image_captions_newone.py:107 - Loading SentenceTransformer for CapFilt: all-MiniLM-L6-v2...
+2025-05-26 23:51:46,611 - INFO - SentenceTransformer.py:219 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-26 23:51:52,117 - INFO - generate_image_captions_newone.py:111 - SentenceTransformer for CapFilt loaded on cpu.
+2025-05-26 23:51:52,119 - INFO - generate_image_captions_newone.py:321 - 
+Starting OCR, BLIP caption generation & filtering for 417 images...

@@ -1,0 +1,12 @@
+2025-05-27 01:13:23,466 - INFO - generate_image_textual_metadata.py:56 - OpenCV available for advanced image processing.
+2025-05-27 01:13:23,479 - INFO - generate_image_textual_metadata.py:74 - CapFilt: Loaded products data ((60, 8)) from '/Users/amankumar/Desktop/Aims/final data/products_final_with_all_image_paths.csv'
+2025-05-27 01:13:23,483 - INFO - generate_image_textual_metadata.py:83 - CapFilt: Loaded relevant documents ((433, 5)) from '/Users/amankumar/Desktop/Aims/final data/all_documents.csv'
+2025-05-27 01:13:23,487 - INFO - generate_image_textual_metadata.py:135 - Loaded 417 image records from all_product_images_info_scraped.csv.
+2025-05-27 01:13:23,488 - INFO - generate_image_textual_metadata.py:110 - Loading BLIP model: Salesforce/blip-image-captioning-large...
+2025-05-27 01:13:23,488 - INFO - generate_image_textual_metadata.py:112 - Using device: cpu for BLIP.
+2025-05-27 01:13:27,346 - INFO - generate_image_textual_metadata.py:116 - BLIP model loaded.
+2025-05-27 01:13:27,346 - INFO - generate_image_textual_metadata.py:119 - Loading SentenceTransformer for CapFilt: all-MiniLM-L6-v2...
+2025-05-27 01:13:27,347 - INFO - SentenceTransformer.py:219 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-27 01:13:30,818 - INFO - generate_image_textual_metadata.py:123 - SentenceTransformer for CapFilt loaded on cpu.
+2025-05-27 01:13:30,819 - INFO - generate_image_textual_metadata.py:340 - 
+Starting OCR, BLIP caption generation & filtering for 417 images...

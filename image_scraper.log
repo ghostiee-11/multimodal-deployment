@@ -1,0 +1,967 @@
+2025-05-26 22:07:29,984 - INFO - scrape_all_product_images.py:49 - Initializing WebDriver (Headless: True)...
+2025-05-26 22:07:29,984 - INFO - logger.py:11 - ====== WebDriver manager ======
+2025-05-26 22:07:30,277 - INFO - logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-05-26 22:07:30,443 - INFO - logger.py:11 - Get LATEST chromedriver version for google-chrome
+2025-05-26 22:07:30,598 - INFO - logger.py:11 - Driver [/Users/amankumar/.wdm/drivers/chromedriver/mac64/136.0.7103.113/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-26 22:07:32,312 - INFO - scrape_all_product_images.py:66 - WebDriver initialized successfully.
+2025-05-26 22:07:32,313 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B09QL3NQHX (1/60)
+2025-05-26 22:07:32,313 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Rockerz-425-Bluetooth-Headphones-Signature/dp/B09QL3NQHX
+2025-05-26 22:07:40,731 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:07:40,731 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:07:40,734 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/Rockerz-425-Bluetooth-Headphones-Signature/dp/B09QL3NQHX.
+2025-05-26 22:07:40,735 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B09QL3NQHX.
+2025-05-26 22:07:40,931 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71SuWxoMewL.jpg
+2025-05-26 22:07:41,314 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71H0gjLshjL.jpg
+2025-05-26 22:07:41,688 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61UMXr-+bEL.jpg
+2025-05-26 22:07:42,070 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61XvYOrqVeL.jpg
+2025-05-26 22:07:42,618 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img5.jpg from https://m.media-amazon.com/images/I/4167GgWVrWL.jpg
+2025-05-26 22:07:42,990 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img6.jpg from https://m.media-amazon.com/images/I/61-KLUL0mJL.jpg
+2025-05-26 22:07:43,363 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3NQHX_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41pcgq-l9ML.jpg
+2025-05-26 22:07:43,669 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B09QL3NQHX
+2025-05-26 22:07:43,669 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B09QL3NQHX done) ---
+2025-05-26 22:07:48,683 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B07PR1CL3S (2/60)
+2025-05-26 22:07:48,684 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Rockerz-450-Wireless-Bluetooth-Headphone/dp/B07PR1CL3S
+2025-05-26 22:07:56,797 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:07:56,797 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:07:56,798 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Rockerz-450-Wireless-Bluetooth-Headphone/dp/B07PR1CL3S.
+2025-05-26 22:07:56,798 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B07PR1CL3S.
+2025-05-26 22:07:57,013 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71HTh-leeyL.jpg
+2025-05-26 22:07:57,488 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71RZ3uVtAhL.jpg
+2025-05-26 22:07:57,938 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img3.jpg from https://m.media-amazon.com/images/I/718BamtQcDL.jpg
+2025-05-26 22:07:58,384 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71eQ0cHn5HL.jpg
+2025-05-26 22:07:58,839 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61C3AquS9FL.jpg
+2025-05-26 22:07:59,327 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41C+h6gkRJL.jpg
+2025-05-26 22:07:59,731 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07PR1CL3S_allsrp_img7.jpg from https://m.media-amazon.com/images/I/31ztpzzaDSL.jpg
+2025-05-26 22:08:00,034 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B07PR1CL3S
+2025-05-26 22:08:00,036 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B07PR1CL3S done) ---
+2025-05-26 22:08:05,045 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B09R24JBYV (3/60)
+2025-05-26 22:08:05,045 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Zeb-Bro-Earphones-Compatible-Green/dp/B09R24JBYV
+2025-05-26 22:08:12,713 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:08:12,714 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:08:12,714 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Zeb-Bro-Earphones-Compatible-Green/dp/B09R24JBYV.
+2025-05-26 22:08:12,714 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B09R24JBYV.
+2025-05-26 22:08:12,858 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71JHURKGUFL.jpg
+2025-05-26 22:08:13,293 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61A6bLrcP6L.jpg
+2025-05-26 22:08:13,738 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61Y+UkIGVKL.jpg
+2025-05-26 22:08:14,185 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61h+2nZNCoL.jpg
+2025-05-26 22:08:14,651 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41C1ujzbaQL.jpg
+2025-05-26 22:08:15,110 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img6.jpg from https://m.media-amazon.com/images/I/31mJHab1UuL.jpg
+2025-05-26 22:08:15,515 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09R24JBYV_allsrp_img7.jpg from https://m.media-amazon.com/images/I/316aSEuJIaL.jpg
+2025-05-26 22:08:15,821 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B09R24JBYV
+2025-05-26 22:08:15,822 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B09R24JBYV done) ---
+2025-05-26 22:08:20,835 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DGTSTQWL (4/60)
+2025-05-26 22:08:20,837 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-430-Assistant-Headphones/dp/B0DGTSTQWL
+2025-05-26 22:08:28,831 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:08:28,831 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:08:28,831 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-430-Assistant-Headphones/dp/B0DGTSTQWL.
+2025-05-26 22:08:28,832 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0DGTSTQWL.
+2025-05-26 22:08:28,979 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71GTsfNYthL.jpg
+2025-05-26 22:08:29,475 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71L70bAl2KL.jpg
+2025-05-26 22:08:29,946 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71IFr-+WViL.jpg
+2025-05-26 22:08:30,418 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img4.jpg from https://m.media-amazon.com/images/I/616aYM2vQZL.jpg
+2025-05-26 22:08:30,819 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41O6lkAlJIL.jpg
+2025-05-26 22:08:31,309 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41oW1cDGVlL.jpg
+2025-05-26 22:08:31,779 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTSTQWL_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41kZ8-+Fr+L.jpg
+2025-05-26 22:08:32,085 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DGTSTQWL
+2025-05-26 22:08:32,085 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DGTSTQWL done) ---
+2025-05-26 22:08:37,106 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B00Y4ORQ46 (5/60)
+2025-05-26 22:08:37,107 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Logitech-H111-Stero-Headset-Black/dp/B00Y4ORQ46
+2025-05-26 22:08:45,019 - INFO - scrape_all_product_images.py:167 -     Found 70 potential URLs via generic script regex.
+2025-05-26 22:08:45,019 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 68
+2025-05-26 22:08:45,020 - INFO - scrape_all_product_images.py:239 -     Returning 13 unique, filtered image URLs for https://www.amazon.in/Logitech-H111-Stero-Headset-Black/dp/B00Y4ORQ46.
+2025-05-26 22:08:45,020 - INFO - scrape_all_product_images.py:278 -   Attempting to download 13 images for B00Y4ORQ46.
+2025-05-26 22:08:45,140 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61R3NvbLkIL.jpg
+2025-05-26 22:08:45,563 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51lXCT6RI4L.jpg
+2025-05-26 22:08:45,991 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61HBpQuLjVL.jpg
+2025-05-26 22:08:46,486 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71xlKcqoEwL.jpg
+2025-05-26 22:08:47,006 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img5.jpg from https://m.media-amazon.com/images/I/417ygiuEviL.jpg
+2025-05-26 22:08:47,486 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41KShSpBaFL.jpg
+2025-05-26 22:08:47,971 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00Y4ORQ46_allsrp_img7.jpg from https://m.media-amazon.com/images/I/413vkg7bwzL.jpg
+2025-05-26 22:08:48,277 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B00Y4ORQ46
+2025-05-26 22:08:48,277 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B00Y4ORQ46 done) ---
+2025-05-26 22:08:53,285 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0BS1PRC4L (6/60)
+2025-05-26 22:08:53,291 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L
+2025-05-26 22:09:01,740 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:09:01,741 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:09:01,741 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1PRC4L.
+2025-05-26 22:09:01,742 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0BS1PRC4L.
+2025-05-26 22:09:01,798 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41bqlx+PPzL.jpg
+2025-05-26 22:09:02,180 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img2.jpg from https://m.media-amazon.com/images/I/811UeUfPYdL.jpg
+2025-05-26 22:09:02,627 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img3.jpg from https://m.media-amazon.com/images/I/31CUmCOSnqL.jpg
+2025-05-26 22:09:03,029 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img4.jpg from https://m.media-amazon.com/images/I/3172VTUPxjL.jpg
+2025-05-26 22:09:03,443 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41HbBZjepVL.jpg
+2025-05-26 22:09:04,143 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71aDAD0t5rL.jpg
+2025-05-26 22:09:04,572 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1PRC4L_allsrp_img7.jpg from https://m.media-amazon.com/images/I/51Xtx2HpemL.jpg
+2025-05-26 22:09:04,875 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0BS1PRC4L
+2025-05-26 22:09:04,875 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0BS1PRC4L done) ---
+2025-05-26 22:09:09,882 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B086671ZSR (7/60)
+2025-05-26 22:09:09,884 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boat-Rockerz-450-Lightweight-Compatibility/dp/B086671ZSR
+2025-05-26 22:09:17,466 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:09:17,466 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:09:17,467 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Boat-Rockerz-450-Lightweight-Compatibility/dp/B086671ZSR.
+2025-05-26 22:09:17,467 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B086671ZSR.
+2025-05-26 22:09:17,570 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61zKmv+uKBL.jpg
+2025-05-26 22:09:17,967 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img2.jpg from https://m.media-amazon.com/images/I/516j525JBGL.jpg
+2025-05-26 22:09:18,373 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71InTQKmRyL.jpg
+2025-05-26 22:09:18,898 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41CC96JnW4L.jpg
+2025-05-26 22:09:19,557 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img5.jpg from https://m.media-amazon.com/images/I/71vDeb1HPPL.jpg
+2025-05-26 22:09:20,142 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img6.jpg from https://m.media-amazon.com/images/I/714fy0TzNdL.jpg
+2025-05-26 22:09:20,660 - INFO - scrape_all_product_images.py:99 -       Downloaded: B086671ZSR_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41JcbN5Zs9L.jpg
+2025-05-26 22:09:20,966 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B086671ZSR
+2025-05-26 22:09:20,967 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B086671ZSR done) ---
+2025-05-26 22:09:25,972 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DHDDF5J2 (8/60)
+2025-05-26 22:09:25,973 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Bassheads-900-Pro-Unidirectional/dp/B0DHDDF5J2
+2025-05-26 22:09:33,524 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:09:33,524 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:09:33,525 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/boAt-Bassheads-900-Pro-Unidirectional/dp/B0DHDDF5J2.
+2025-05-26 22:09:33,525 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B0DHDDF5J2.
+2025-05-26 22:09:33,584 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71cr77vEx3L.jpg
+2025-05-26 22:09:33,954 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61xvPqxlqEL.jpg
+2025-05-26 22:09:34,324 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71lK-WCRvdL.jpg
+2025-05-26 22:09:34,686 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img4.jpg from https://m.media-amazon.com/images/I/717rLNYK-+L.jpg
+2025-05-26 22:09:35,090 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img5.jpg from https://m.media-amazon.com/images/I/4192vscwlSL.jpg
+2025-05-26 22:09:35,514 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41T9yMU0xlL.jpg
+2025-05-26 22:09:35,950 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DHDDF5J2_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41i111UvTWL.jpg
+2025-05-26 22:09:36,256 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DHDDF5J2
+2025-05-26 22:09:36,256 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DHDDF5J2 done) ---
+2025-05-26 22:09:41,262 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08667772G (9/60)
+2025-05-26 22:09:41,264 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boat-Rockerz-450-Lightweight-Compatibility/dp/B08667772G
+2025-05-26 22:09:48,881 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:09:48,882 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:09:48,882 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Boat-Rockerz-450-Lightweight-Compatibility/dp/B08667772G.
+2025-05-26 22:09:48,882 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B08667772G.
+2025-05-26 22:09:48,986 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71rtP9TUGdL.jpg
+2025-05-26 22:09:49,402 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71uZcrr+bjL.jpg
+2025-05-26 22:09:49,887 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51qbZ7Cg1DL.jpg
+2025-05-26 22:09:50,256 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61PkIiWt7CL.jpg
+2025-05-26 22:09:50,642 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41PEMilOZ1L.jpg
+2025-05-26 22:09:51,051 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img6.jpg from https://m.media-amazon.com/images/I/31x-Xz8TkbL.jpg
+2025-05-26 22:09:51,516 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08667772G_allsrp_img7.jpg from https://m.media-amazon.com/images/I/61I-2NFeeVL.jpg
+2025-05-26 22:09:51,823 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08667772G
+2025-05-26 22:09:51,824 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08667772G done) ---
+2025-05-26 22:09:56,834 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B071Z8M4KX (10/60)
+2025-05-26 22:09:56,835 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX
+2025-05-26 22:10:04,385 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:10:04,386 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:10:04,386 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX.
+2025-05-26 22:10:04,386 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B071Z8M4KX.
+2025-05-26 22:10:04,460 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61UgSQ9UB2L.jpg
+2025-05-26 22:10:04,862 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41tyzj-icWL.jpg
+2025-05-26 22:10:05,234 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61sRbJncwbL.jpg
+2025-05-26 22:10:05,735 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41HbUP3iP5L.jpg
+2025-05-26 22:10:06,214 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41cidk7kYNL.jpg
+2025-05-26 22:10:06,691 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41uFZxUySsL.jpg
+2025-05-26 22:10:07,146 - INFO - scrape_all_product_images.py:99 -       Downloaded: B071Z8M4KX_allsrp_img7.jpg from https://m.media-amazon.com/images/I/61ev3M9LmQL.jpg
+2025-05-26 22:10:07,452 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B071Z8M4KX
+2025-05-26 22:10:07,453 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B071Z8M4KX done) ---
+2025-05-26 22:10:12,460 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0F2FF44NN (11/60)
+2025-05-26 22:10:12,461 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boult-Launched-Headphones-Bluetooth-headphones/dp/B0F2FF44NN
+2025-05-26 22:10:20,423 - INFO - scrape_all_product_images.py:167 -     Found 133 potential URLs via generic script regex.
+2025-05-26 22:10:20,424 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 132
+2025-05-26 22:10:20,425 - INFO - scrape_all_product_images.py:239 -     Returning 26 unique, filtered image URLs for https://www.amazon.in/Boult-Launched-Headphones-Bluetooth-headphones/dp/B0F2FF44NN.
+2025-05-26 22:10:20,425 - INFO - scrape_all_product_images.py:278 -   Attempting to download 26 images for B0F2FF44NN.
+2025-05-26 22:10:20,685 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81gaXDskbFL.jpg
+2025-05-26 22:10:21,182 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51c6z+V+siL.jpg
+2025-05-26 22:10:21,656 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img3.jpg from https://m.media-amazon.com/images/I/81dnmjOYb2L.jpg
+2025-05-26 22:10:22,102 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51QrBdJLsTL.jpg
+2025-05-26 22:10:22,582 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img5.jpg from https://m.media-amazon.com/images/I/812+-Pe+4-L.jpg
+2025-05-26 22:10:23,042 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71yAU2+AOCL.jpg
+2025-05-26 22:10:23,599 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0F2FF44NN_allsrp_img7.jpg from https://m.media-amazon.com/images/I/81DAO9CuNOL.jpg
+2025-05-26 22:10:23,905 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0F2FF44NN
+2025-05-26 22:10:23,906 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0F2FF44NN done) ---
+2025-05-26 22:10:28,913 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DGTTKCJX (12/60)
+2025-05-26 22:10:28,914 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-480-Bluetooth-Headphones/dp/B0DGTTKCJX
+2025-05-26 22:10:36,850 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:10:36,850 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:10:36,851 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-480-Bluetooth-Headphones/dp/B0DGTTKCJX.
+2025-05-26 22:10:36,851 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0DGTTKCJX.
+2025-05-26 22:10:37,002 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71TIEZXXxkL.jpg
+2025-05-26 22:10:37,462 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61cIHzCDl6L.jpg
+2025-05-26 22:10:37,930 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71bpCD5dbVL.jpg
+2025-05-26 22:10:38,417 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img4.jpg from https://m.media-amazon.com/images/I/716VWXIZ3CL.jpg
+2025-05-26 22:10:38,910 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51vgABLxDUL.jpg
+2025-05-26 22:10:39,369 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img6.jpg from https://m.media-amazon.com/images/I/715Y6zPgK+L.jpg
+2025-05-26 22:10:39,834 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTTKCJX_allsrp_img7.jpg from https://m.media-amazon.com/images/I/51moSaDnLaL.jpg
+2025-05-26 22:10:40,140 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DGTTKCJX
+2025-05-26 22:10:40,141 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DGTTKCJX done) ---
+2025-05-26 22:10:45,156 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0856HY85J (13/60)
+2025-05-26 22:10:45,157 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boat-Rockerz-550-Headphone-Aesthetics/dp/B0856HY85J
+2025-05-26 22:10:53,367 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:10:53,368 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:10:53,369 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/Boat-Rockerz-550-Headphone-Aesthetics/dp/B0856HY85J.
+2025-05-26 22:10:53,369 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B0856HY85J.
+2025-05-26 22:10:53,482 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41PlZjYsy-L.jpg
+2025-05-26 22:10:53,952 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img2.jpg from https://m.media-amazon.com/images/I/412g70QjQFL.jpg
+2025-05-26 22:10:54,428 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img3.jpg from https://m.media-amazon.com/images/I/610B1gqS4UL.jpg
+2025-05-26 22:10:54,921 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img4.jpg from https://m.media-amazon.com/images/I/713vSnqDamL.jpg
+2025-05-26 22:10:55,381 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img5.jpg from https://m.media-amazon.com/images/I/71b+g2CJ79L.jpg
+2025-05-26 22:10:55,852 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img6.jpg from https://m.media-amazon.com/images/I/612c54zFjpL.jpg
+2025-05-26 22:10:56,372 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0856HY85J_allsrp_img7.jpg from https://m.media-amazon.com/images/I/51EHoByuOgL.jpg
+2025-05-26 22:10:56,679 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0856HY85J
+2025-05-26 22:10:56,680 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0856HY85J done) ---
+2025-05-26 22:11:01,768 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0B1PXM75C (14/60)
+2025-05-26 22:11:01,768 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Launched-Noise-Headphones-Playtime-Latency/dp/B0B1PXM75C
+2025-05-26 22:11:10,309 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:11:10,310 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:11:10,311 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/Launched-Noise-Headphones-Playtime-Latency/dp/B0B1PXM75C.
+2025-05-26 22:11:10,311 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0B1PXM75C.
+2025-05-26 22:11:10,435 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img1.jpg from https://m.media-amazon.com/images/I/510XahdGPIL.jpg
+2025-05-26 22:11:10,858 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img2.jpg from https://m.media-amazon.com/images/I/419tZ5pcqkL.jpg
+2025-05-26 22:11:11,288 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img3.jpg from https://m.media-amazon.com/images/I/517lSvEVVsL.jpg
+2025-05-26 22:11:11,778 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41EWv0B742L.jpg
+2025-05-26 22:11:12,213 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61Q1bfhFOLL.jpg
+2025-05-26 22:11:12,693 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41oJHJi5CjL.jpg
+2025-05-26 22:11:13,155 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B1PXM75C_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71qT2vBIVwL.jpg
+2025-05-26 22:11:13,459 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0B1PXM75C
+2025-05-26 22:11:13,460 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0B1PXM75C done) ---
+2025-05-26 22:11:18,468 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08QTYYNDN (15/60)
+2025-05-26 22:11:18,470 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/JBL-Wireless-Headphones-Bluetooth-Assistant/dp/B08QTYYNDN
+2025-05-26 22:11:26,447 - INFO - scrape_all_product_images.py:167 -     Found 93 potential URLs via generic script regex.
+2025-05-26 22:11:26,447 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 92
+2025-05-26 22:11:26,448 - INFO - scrape_all_product_images.py:239 -     Returning 18 unique, filtered image URLs for https://www.amazon.in/JBL-Wireless-Headphones-Bluetooth-Assistant/dp/B08QTYYNDN.
+2025-05-26 22:11:26,448 - INFO - scrape_all_product_images.py:278 -   Attempting to download 18 images for B08QTYYNDN.
+2025-05-26 22:11:26,621 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img1.jpg from https://m.media-amazon.com/images/I/31-wY4QWgiS.jpg
+2025-05-26 22:11:27,094 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img2.jpg from https://m.media-amazon.com/images/I/81vwzWL6wLL.jpg
+2025-05-26 22:11:27,608 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51Bb0eFN7jS.jpg
+2025-05-26 22:11:28,071 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61kFL7ywsZS.jpg
+2025-05-26 22:11:28,470 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img5.jpg from https://m.media-amazon.com/images/I/31SNd2tQupS.jpg
+2025-05-26 22:11:28,961 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51253A3BUBL.jpg
+2025-05-26 22:11:29,429 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTYYNDN_allsrp_img7.jpg from https://m.media-amazon.com/images/I/21gpFHiIRFS.jpg
+2025-05-26 22:11:29,732 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08QTYYNDN
+2025-05-26 22:11:29,733 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08QTYYNDN done) ---
+2025-05-26 22:11:34,743 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B09QL3K2GD (16/60)
+2025-05-26 22:11:34,743 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Rockerz-425-Bluetooth-Headphones-Signature/dp/B09QL3K2GD
+2025-05-26 22:11:42,370 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:11:42,370 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:11:42,371 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/Rockerz-425-Bluetooth-Headphones-Signature/dp/B09QL3K2GD.
+2025-05-26 22:11:42,371 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B09QL3K2GD.
+2025-05-26 22:11:42,505 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61+dwS-t2oL.jpg
+2025-05-26 22:11:42,988 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71VGkAJ5rjL.jpg
+2025-05-26 22:11:43,457 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61R4Tj5podL.jpg
+2025-05-26 22:11:43,938 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41RZmGCgMNL.jpg
+2025-05-26 22:11:44,387 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61HR7N5zbjL.jpg
+2025-05-26 22:11:44,812 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41sHQy2lDBL.jpg
+2025-05-26 22:11:45,296 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09QL3K2GD_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41IFFIzbTXL.jpg
+2025-05-26 22:11:45,599 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B09QL3K2GD
+2025-05-26 22:11:45,599 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B09QL3K2GD done) ---
+2025-05-26 22:11:50,619 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DQPKH93F (17/60)
+2025-05-26 22:11:50,620 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Ambrane-Boostedbass-Multi-Functional-Stringz-Lite/dp/B0DQPKH93F
+2025-05-26 22:11:58,447 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:11:58,447 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:11:58,448 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/Ambrane-Boostedbass-Multi-Functional-Stringz-Lite/dp/B0DQPKH93F.
+2025-05-26 22:11:58,448 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B0DQPKH93F.
+2025-05-26 22:11:58,648 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81LJzwQl7lL.jpg
+2025-05-26 22:11:59,132 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41a28---nBL.jpg
+2025-05-26 22:11:59,610 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41dCxsZOJNL.jpg
+2025-05-26 22:12:00,045 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img4.jpg from https://m.media-amazon.com/images/I/613p2FsdllL.jpg
+2025-05-26 22:12:00,524 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51gXM4pnoCL.jpg
+2025-05-26 22:12:01,010 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81BUZAn0rBL.jpg
+2025-05-26 22:12:01,413 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DQPKH93F_allsrp_img7.jpg from https://m.media-amazon.com/images/I/31OvDcM2HTL.jpg
+2025-05-26 22:12:01,719 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DQPKH93F
+2025-05-26 22:12:01,720 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DQPKH93F done) ---
+2025-05-26 22:12:06,726 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B09XS7JWHH (18/60)
+2025-05-26 22:12:06,727 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-WH-1000XM5-Wireless-Cancelling-Headphones/dp/B09XS7JWHH
+2025-05-26 22:12:15,470 - INFO - scrape_all_product_images.py:167 -     Found 163 potential URLs via generic script regex.
+2025-05-26 22:12:15,470 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 162
+2025-05-26 22:12:15,472 - INFO - scrape_all_product_images.py:239 -     Returning 32 unique, filtered image URLs for https://www.amazon.in/Sony-WH-1000XM5-Wireless-Cancelling-Headphones/dp/B09XS7JWHH.
+2025-05-26 22:12:15,472 - INFO - scrape_all_product_images.py:278 -   Attempting to download 32 images for B09XS7JWHH.
+2025-05-26 22:12:15,597 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41yrZGRvOAL.jpg
+2025-05-26 22:12:16,203 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51pFYV7FHdL.jpg
+2025-05-26 22:12:16,891 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71GMFf-4cwL.jpg
+2025-05-26 22:12:17,300 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img4.jpg from https://m.media-amazon.com/images/I/81+4fB1ehJL.jpg
+2025-05-26 22:12:17,729 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41-E8jpyU5L.jpg
+2025-05-26 22:12:18,253 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img6.jpg from https://m.media-amazon.com/images/I/710YM8cBnnL.jpg
+2025-05-26 22:12:18,701 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09XS7JWHH_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41x7lxGdm1L.jpg
+2025-05-26 22:12:19,007 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B09XS7JWHH
+2025-05-26 22:12:19,008 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B09XS7JWHH done) ---
+2025-05-26 22:12:24,019 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0863FR3S9 (19/60)
+2025-05-26 22:12:24,021 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-WH-1000XM4-Cancelling-Headphones-Bluetooth/dp/B0863FR3S9
+2025-05-26 22:12:32,580 - INFO - scrape_all_product_images.py:167 -     Found 113 potential URLs via generic script regex.
+2025-05-26 22:12:32,581 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 112
+2025-05-26 22:12:32,582 - INFO - scrape_all_product_images.py:239 -     Returning 22 unique, filtered image URLs for https://www.amazon.in/Sony-WH-1000XM4-Cancelling-Headphones-Bluetooth/dp/B0863FR3S9.
+2025-05-26 22:12:32,582 - INFO - scrape_all_product_images.py:278 -   Attempting to download 22 images for B0863FR3S9.
+2025-05-26 22:12:32,687 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61UgZSYRllL.jpg
+2025-05-26 22:12:33,121 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img2.jpg from https://m.media-amazon.com/images/I/81zNaO7AyoL.jpg
+2025-05-26 22:12:33,531 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img3.jpg from https://m.media-amazon.com/images/I/31bMX03s6+L.jpg
+2025-05-26 22:12:33,960 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71joBKOGFBL.jpg
+2025-05-26 22:12:34,675 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img5.jpg from https://m.media-amazon.com/images/I/916n+6CyRlL.jpg
+2025-05-26 22:12:35,071 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41YSkcM5mrL.jpg
+2025-05-26 22:12:35,494 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0863FR3S9_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41qGes8onAL.jpg
+2025-05-26 22:12:35,797 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0863FR3S9
+2025-05-26 22:12:35,797 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0863FR3S9 done) ---
+2025-05-26 22:12:40,805 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0B4G44RFS (20/60)
+2025-05-26 22:12:40,806 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Zeb-Storm-Microphone-Adjustable-Lightweight/dp/B0B4G44RFS
+2025-05-26 22:12:48,489 - INFO - scrape_all_product_images.py:167 -     Found 72 potential URLs via generic script regex.
+2025-05-26 22:12:48,489 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 70
+2025-05-26 22:12:48,490 - INFO - scrape_all_product_images.py:239 -     Returning 13 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Zeb-Storm-Microphone-Adjustable-Lightweight/dp/B0B4G44RFS.
+2025-05-26 22:12:48,490 - INFO - scrape_all_product_images.py:278 -   Attempting to download 13 images for B0B4G44RFS.
+2025-05-26 22:12:48,612 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61FrvQMXxJL.jpg
+2025-05-26 22:12:49,013 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71KTaq3IUYL.jpg
+2025-05-26 22:12:49,492 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41Z4adPP8HL.jpg
+2025-05-26 22:12:49,904 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img4.jpg from https://m.media-amazon.com/images/I/612nLuz329L.jpg
+2025-05-26 22:12:50,353 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img5.jpg from https://m.media-amazon.com/images/I/71amV5A96hL.jpg
+2025-05-26 22:12:50,717 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41KJfT62kZL.jpg
+2025-05-26 22:12:51,151 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B4G44RFS_allsrp_img7.jpg from https://m.media-amazon.com/images/I/413SoVqM5dL.jpg
+2025-05-26 22:12:51,457 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0B4G44RFS
+2025-05-26 22:12:51,458 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0B4G44RFS done) ---
+2025-05-26 22:12:56,469 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D3TMKMYN (21/60)
+2025-05-26 22:12:56,470 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-Headphones-WH-ULT900N-Cancelling-Pair-Forest/dp/B0D3TMKMYN
+2025-05-26 22:13:05,043 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:13:05,044 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:13:05,045 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/Sony-Headphones-WH-ULT900N-Cancelling-Pair-Forest/dp/B0D3TMKMYN.
+2025-05-26 22:13:05,045 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0D3TMKMYN.
+2025-05-26 22:13:05,237 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81CY5L6kjyL.jpg
+2025-05-26 22:13:05,696 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31VEbzbHcPL.jpg
+2025-05-26 22:13:06,120 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61T7KqW31zL.jpg
+2025-05-26 22:13:06,717 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71gXZ6UKWGL.jpg
+2025-05-26 22:13:07,184 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41IsNwOVroL.jpg
+2025-05-26 22:13:07,630 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img6.jpg from https://m.media-amazon.com/images/I/91X6-MXl0uL.jpg
+2025-05-26 22:13:08,121 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3TMKMYN_allsrp_img7.jpg from https://m.media-amazon.com/images/I/91grr+0FxtL.jpg
+2025-05-26 22:13:08,424 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D3TMKMYN
+2025-05-26 22:13:08,425 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D3TMKMYN done) ---
+2025-05-26 22:13:13,431 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08QTVL6C5 (22/60)
+2025-05-26 22:13:13,432 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/JBL-Wireless-Headphones-Bluetooth-Assistant/dp/B08QTVL6C5
+2025-05-26 22:13:21,743 - INFO - scrape_all_product_images.py:167 -     Found 133 potential URLs via generic script regex.
+2025-05-26 22:13:21,744 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 132
+2025-05-26 22:13:21,745 - INFO - scrape_all_product_images.py:239 -     Returning 26 unique, filtered image URLs for https://www.amazon.in/JBL-Wireless-Headphones-Bluetooth-Assistant/dp/B08QTVL6C5.
+2025-05-26 22:13:21,746 - INFO - scrape_all_product_images.py:278 -   Attempting to download 26 images for B08QTVL6C5.
+2025-05-26 22:13:21,961 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61NS3QcwO9L.jpg
+2025-05-26 22:13:22,514 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61YTejLpX+L.jpg
+2025-05-26 22:13:23,034 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61tbYT28nIL.jpg
+2025-05-26 22:13:23,528 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img4.jpg from https://m.media-amazon.com/images/I/513588ADRlS.jpg
+2025-05-26 22:13:24,059 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img5.jpg from https://m.media-amazon.com/images/I/21V+LQahToS.jpg
+2025-05-26 22:13:24,569 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img6.jpg from https://m.media-amazon.com/images/I/31hPkq8BxVS.jpg
+2025-05-26 22:13:25,246 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08QTVL6C5_allsrp_img7.jpg from https://m.media-amazon.com/images/I/616D3D0lGsL.jpg
+2025-05-26 22:13:25,552 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08QTVL6C5
+2025-05-26 22:13:25,553 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08QTVL6C5 done) ---
+2025-05-26 22:13:30,562 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CCZ26B5V (23/60)
+2025-05-26 22:13:30,563 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V
+2025-05-26 22:13:38,409 - INFO - scrape_all_product_images.py:167 -     Found 83 potential URLs via generic script regex.
+2025-05-26 22:13:38,409 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 82
+2025-05-26 22:13:38,410 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/Bose-QuietComfort-Cancelling-Headphones-Bluetooth/dp/B0CCZ26B5V.
+2025-05-26 22:13:38,410 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0CCZ26B5V.
+2025-05-26 22:13:38,621 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img1.jpg from https://m.media-amazon.com/images/I/51UFpm04T9L.jpg
+2025-05-26 22:13:39,013 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31+fg95OcqL.jpg
+2025-05-26 22:13:39,522 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51E5T5O19PL.jpg
+2025-05-26 22:13:40,012 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41Fe5-wjOFL.jpg
+2025-05-26 22:13:40,504 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61Ym4SBP7zL.jpg
+2025-05-26 22:13:40,955 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img6.jpg from https://m.media-amazon.com/images/I/615c64LJhBL.jpg
+2025-05-26 22:13:41,437 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ26B5V_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41IGD3LTtjL.jpg
+2025-05-26 22:13:41,739 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CCZ26B5V
+2025-05-26 22:13:41,739 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CCZ26B5V done) ---
+2025-05-26 22:13:46,749 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D4ZCH5HS (24/60)
+2025-05-26 22:13:46,750 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0D4ZCH5HS
+2025-05-26 22:13:54,760 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:13:54,761 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:13:54,762 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0D4ZCH5HS.
+2025-05-26 22:13:54,762 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0D4ZCH5HS.
+2025-05-26 22:13:54,878 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41WzSJ4mhUL.jpg
+2025-05-26 22:13:55,307 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51NnhWCTtoL.jpg
+2025-05-26 22:13:55,740 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img3.jpg from https://m.media-amazon.com/images/I/31jKpqeEPrL.jpg
+2025-05-26 22:13:56,173 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41EnwcAqiBL.jpg
+2025-05-26 22:13:56,769 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img5.jpg from https://m.media-amazon.com/images/I/21m3XsaS+UL.jpg
+2025-05-26 22:13:57,556 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img6.jpg from https://m.media-amazon.com/images/I/21Rj9VyWAaL.jpg
+2025-05-26 22:13:58,239 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D4ZCH5HS_allsrp_img7.jpg from https://m.media-amazon.com/images/I/61DiEWSIM5L.jpg
+2025-05-26 22:13:58,546 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D4ZCH5HS
+2025-05-26 22:13:58,547 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D4ZCH5HS done) ---
+2025-05-26 22:14:03,555 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0C6KKQ7ND (25/60)
+2025-05-26 22:14:03,555 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Soundcore-Cancelling-Headphones-Reduction-Comfortable/dp/B0C6KKQ7ND
+2025-05-26 22:14:11,745 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:14:11,746 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:14:11,746 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/Soundcore-Cancelling-Headphones-Reduction-Comfortable/dp/B0C6KKQ7ND.
+2025-05-26 22:14:11,746 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B0C6KKQ7ND.
+2025-05-26 22:14:11,914 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61ofRrwWoSL.jpg
+2025-05-26 22:14:12,321 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41VLJrK-IGL.jpg
+2025-05-26 22:14:12,723 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41+uRTluWjL.jpg
+2025-05-26 22:14:13,173 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61eRv4dxwIL.jpg
+2025-05-26 22:14:13,615 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51O3nglyJQL.jpg
+2025-05-26 22:14:14,014 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41ImkuC-r7L.jpg
+2025-05-26 22:14:14,447 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C6KKQ7ND_allsrp_img7.jpg from https://m.media-amazon.com/images/I/61+TcAK4bgL.jpg
+2025-05-26 22:14:14,754 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0C6KKQ7ND
+2025-05-26 22:14:14,754 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0C6KKQ7ND done) ---
+2025-05-26 22:14:19,759 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08G1ZBKGP (26/60)
+2025-05-26 22:14:19,760 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Skullcandy-Cancellation-Wireless-Headphone-Technology/dp/B08G1ZBKGP
+2025-05-26 22:14:27,249 - INFO - scrape_all_product_images.py:167 -     Found 23 potential URLs via generic script regex.
+2025-05-26 22:14:27,249 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 22
+2025-05-26 22:14:27,249 - INFO - scrape_all_product_images.py:239 -     Returning 4 unique, filtered image URLs for https://www.amazon.in/Skullcandy-Cancellation-Wireless-Headphone-Technology/dp/B08G1ZBKGP.
+2025-05-26 22:14:27,250 - INFO - scrape_all_product_images.py:278 -   Attempting to download 4 images for B08G1ZBKGP.
+2025-05-26 22:14:27,492 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08G1ZBKGP_allsrp_img1.jpg from https://m.media-amazon.com/images/I/91MCb9s9ALL.jpg
+2025-05-26 22:14:28,018 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08G1ZBKGP_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51GV39NRXzL.jpg
+2025-05-26 22:14:28,528 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08G1ZBKGP_allsrp_img3.jpg from https://m.media-amazon.com/images/I/81Jfft-mkBL.jpg
+2025-05-26 22:14:28,944 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08G1ZBKGP_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41aLQgPVV5L.jpg
+2025-05-26 22:14:29,251 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08G1ZBKGP done) ---
+2025-05-26 22:14:34,258 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CQKDKPS6 (27/60)
+2025-05-26 22:14:34,258 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6
+2025-05-26 22:14:41,905 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:14:41,906 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:14:41,907 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Bluetooth-Headphones/dp/B0CQKDKPS6.
+2025-05-26 22:14:41,907 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0CQKDKPS6.
+2025-05-26 22:14:42,106 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img1.jpg from https://m.media-amazon.com/images/I/7100JbilA3L.jpg
+2025-05-26 22:14:42,596 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img2.jpg from https://m.media-amazon.com/images/I/8185YvfctaL.jpg
+2025-05-26 22:14:43,083 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41NGf-BlwxL.jpg
+2025-05-26 22:14:43,617 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img4.jpg from https://m.media-amazon.com/images/I/81WxMaWWdjL.jpg
+2025-05-26 22:14:44,054 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51ZU11iIqAL.jpg
+2025-05-26 22:14:44,550 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img6.jpg from https://m.media-amazon.com/images/I/911Ox1-w2iL.jpg
+2025-05-26 22:14:45,016 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CQKDKPS6_allsrp_img7.jpg from https://m.media-amazon.com/images/I/718aLAZgcpL.jpg
+2025-05-26 22:14:45,318 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CQKDKPS6
+2025-05-26 22:14:45,319 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CQKDKPS6 done) ---
+2025-05-26 22:14:50,324 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B00HVLUR86 (28/60)
+2025-05-26 22:14:50,324 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Audio-Technica-ATH-M50x-Over-Ear-Professional-Headphones/dp/B00HVLUR86
+2025-05-26 22:14:58,821 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:14:58,822 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:14:58,823 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Audio-Technica-ATH-M50x-Over-Ear-Professional-Headphones/dp/B00HVLUR86.
+2025-05-26 22:14:58,823 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B00HVLUR86.
+2025-05-26 22:14:59,040 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img1.jpg from https://m.media-amazon.com/images/I/31qwQo3BMlL.jpg
+2025-05-26 22:14:59,715 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41YvmLYwNZL.jpg
+2025-05-26 22:15:00,152 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41kAbGeothL.jpg
+2025-05-26 22:15:00,656 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71VMmQN+zyL.jpg
+2025-05-26 22:15:01,201 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61Y5DYfzgbL.jpg
+2025-05-26 22:15:01,622 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51ZtnpeDLaL.jpg
+2025-05-26 22:15:02,250 - INFO - scrape_all_product_images.py:99 -       Downloaded: B00HVLUR86_allsrp_img7.jpg from https://m.media-amazon.com/images/I/51E8EHBV8WL.jpg
+2025-05-26 22:15:02,558 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B00HVLUR86
+2025-05-26 22:15:02,559 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B00HVLUR86 done) ---
+2025-05-26 22:15:07,647 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D3LGQ841 (29/60)
+2025-05-26 22:15:07,661 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Special-Headphones/dp/B0D3LGQ841
+2025-05-26 22:15:17,595 - INFO - scrape_all_product_images.py:167 -     Found 83 potential URLs via generic script regex.
+2025-05-26 22:15:17,597 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 82
+2025-05-26 22:15:17,598 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/Sennheiser-ACCENTUM-Wireless-Special-Headphones/dp/B0D3LGQ841.
+2025-05-26 22:15:17,598 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0D3LGQ841.
+2025-05-26 22:15:17,943 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img1.jpg from https://m.media-amazon.com/images/I/31AnWY9jc4L.jpg
+2025-05-26 22:15:18,392 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41a33W-i9sL.jpg
+2025-05-26 22:15:18,909 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img3.jpg from https://m.media-amazon.com/images/I/317rCbEMTLL.jpg
+2025-05-26 22:15:20,222 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img4.jpg from https://m.media-amazon.com/images/I/715xmAN3-qL.jpg
+2025-05-26 22:15:22,730 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41b9e8vWh9L.jpg
+2025-05-26 22:15:24,126 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71NNK6pHOWL.jpg
+2025-05-26 22:15:24,930 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D3LGQ841_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71vqqFTkrrL.jpg
+2025-05-26 22:15:25,243 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D3LGQ841
+2025-05-26 22:15:25,244 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D3LGQ841 done) ---
+2025-05-26 22:15:30,267 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B07L8LTS3J (30/60)
+2025-05-26 22:15:30,267 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Bluetooth-Headphones-Assistant-Comfortable/dp/B07L8LTS3J
+2025-05-26 22:15:40,646 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:15:40,648 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:15:40,648 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Bluetooth-Headphones-Assistant-Comfortable/dp/B07L8LTS3J.
+2025-05-26 22:15:40,648 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B07L8LTS3J.
+2025-05-26 22:15:41,007 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img1.jpg from https://m.media-amazon.com/images/I/51fsjxA3OML.jpg
+2025-05-26 22:15:41,698 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71B7ToK7QZL.jpg
+2025-05-26 22:15:42,350 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41RSJl9sQjL.jpg
+2025-05-26 22:15:44,479 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71lBsQYVwcL.jpg
+2025-05-26 22:15:45,283 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img5.jpg from https://m.media-amazon.com/images/I/710RDSFynGL.jpg
+2025-05-26 22:15:45,896 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img6.jpg from https://m.media-amazon.com/images/I/7125soZkc1L.jpg
+2025-05-26 22:15:46,314 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07L8LTS3J_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41K2Mbfo1mL.jpg
+2025-05-26 22:15:46,616 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B07L8LTS3J
+2025-05-26 22:15:46,616 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B07L8LTS3J done) ---
+2025-05-26 22:15:51,637 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CGR7XRYW (31/60)
+2025-05-26 22:15:51,639 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sennheiser-Accentum-Wireless-Bluetooth-Headphones/dp/B0CGR7XRYW
+2025-05-26 22:16:00,399 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:16:00,400 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:16:00,400 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Sennheiser-Accentum-Wireless-Bluetooth-Headphones/dp/B0CGR7XRYW.
+2025-05-26 22:16:00,401 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CGR7XRYW.
+2025-05-26 22:16:00,688 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img1.jpg from https://m.media-amazon.com/images/I/612HgKy45eL.jpg
+2025-05-26 22:16:01,136 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51kzqaeH+0L.jpg
+2025-05-26 22:16:01,676 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61V7Op1nmlL.jpg
+2025-05-26 22:16:02,154 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61Yz6BLAmtL.jpg
+2025-05-26 22:16:02,640 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41DUY4x0ChL.jpg
+2025-05-26 22:16:03,372 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81pmDVkzduL.jpg
+2025-05-26 22:16:03,924 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CGR7XRYW_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71FgOeQ8JzL.jpg
+2025-05-26 22:16:04,229 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CGR7XRYW
+2025-05-26 22:16:04,229 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CGR7XRYW done) ---
+2025-05-26 22:16:09,247 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08TV2P1N8 (32/60)
+2025-05-26 22:16:09,248 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-255-Pro-Earphones/dp/B08TV2P1N8
+2025-05-26 22:16:18,836 - INFO - scrape_all_product_images.py:167 -     Found 93 potential URLs via generic script regex.
+2025-05-26 22:16:18,836 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 92
+2025-05-26 22:16:18,837 - INFO - scrape_all_product_images.py:239 -     Returning 18 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-255-Pro-Earphones/dp/B08TV2P1N8.
+2025-05-26 22:16:18,837 - INFO - scrape_all_product_images.py:278 -   Attempting to download 18 images for B08TV2P1N8.
+2025-05-26 22:16:19,633 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71NgO+zee+L.jpg
+2025-05-26 22:16:20,688 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51VbMk4xskL.jpg
+2025-05-26 22:16:21,513 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61mdf4cvimL.jpg
+2025-05-26 22:16:22,050 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51VqUP-P3NL.jpg
+2025-05-26 22:16:22,598 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41gttqNNgZL.jpg
+2025-05-26 22:16:33,078 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img6.jpg from https://m.media-amazon.com/images/I/61f+UOa3yfL.jpg
+2025-05-26 22:16:33,537 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08TV2P1N8_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41DHgRXGWkL.jpg
+2025-05-26 22:16:33,843 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08TV2P1N8
+2025-05-26 22:16:33,844 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08TV2P1N8 done) ---
+2025-05-26 22:16:38,860 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B09ZJ45J7L (33/60)
+2025-05-26 22:16:38,861 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Zebronics-Zeb-Dynamic-Bluetooth-Supporting-Red/dp/B09ZJ45J7L
+2025-05-26 22:16:48,309 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:16:48,310 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:16:48,310 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Zebronics-Zeb-Dynamic-Bluetooth-Supporting-Red/dp/B09ZJ45J7L.
+2025-05-26 22:16:48,311 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B09ZJ45J7L.
+2025-05-26 22:16:48,573 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71+uBNLVMlL.jpg
+2025-05-26 22:16:50,195 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61JlwGMgg0L.jpg
+2025-05-26 22:16:50,814 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71SAYk1EgdL.jpg
+2025-05-26 22:16:51,399 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41yrLA1Nb8L.jpg
+2025-05-26 22:16:51,909 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img5.jpg from https://m.media-amazon.com/images/I/611LRGba3uL.jpg
+2025-05-26 22:16:52,453 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71lj+BvmJSL.jpg
+2025-05-26 22:16:53,354 - INFO - scrape_all_product_images.py:99 -       Downloaded: B09ZJ45J7L_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41mzXbFCxyL.jpg
+2025-05-26 22:16:53,660 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B09ZJ45J7L
+2025-05-26 22:16:53,661 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B09ZJ45J7L done) ---
+2025-05-26 22:16:58,668 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CC8SBFFR (34/60)
+2025-05-26 22:16:58,669 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-245-V2-Pro/dp/B0CC8SBFFR
+2025-05-26 22:17:06,587 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:17:06,587 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:17:06,588 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-245-V2-Pro/dp/B0CC8SBFFR.
+2025-05-26 22:17:06,588 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B0CC8SBFFR.
+2025-05-26 22:17:06,974 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61qi0vdS9+L.jpg
+2025-05-26 22:17:07,893 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41Q+q2AE9LL.jpg
+2025-05-26 22:17:08,443 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71mO-5dGdNL.jpg
+2025-05-26 22:17:09,052 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51xneqQCdML.jpg
+2025-05-26 22:17:09,790 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61-HdhQmo4L.jpg
+2025-05-26 22:17:10,419 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41X-yoyUjeL.jpg
+2025-05-26 22:17:10,910 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CC8SBFFR_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41LFgylW-WL.jpg
+2025-05-26 22:17:11,217 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CC8SBFFR
+2025-05-26 22:17:11,218 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CC8SBFFR done) ---
+2025-05-26 22:17:16,224 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DCNWN8NZ (35/60)
+2025-05-26 22:17:16,225 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Apple-MYQY3ZM-A-EarPods-USB-C/dp/B0DCNWN8NZ
+2025-05-26 22:17:30,359 - INFO - scrape_all_product_images.py:167 -     Found 61 potential URLs via generic script regex.
+2025-05-26 22:17:30,360 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 60
+2025-05-26 22:17:30,360 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/Apple-MYQY3ZM-A-EarPods-USB-C/dp/B0DCNWN8NZ.
+2025-05-26 22:17:30,361 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B0DCNWN8NZ.
+2025-05-26 22:17:30,756 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img1.jpg from https://m.media-amazon.com/images/I/513OSdW4elL.jpg
+2025-05-26 22:17:31,338 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51P4BxC-GTL.jpg
+2025-05-26 22:17:31,961 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img3.jpg from https://m.media-amazon.com/images/I/21Vw4WqHrGL.jpg
+2025-05-26 22:17:32,510 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51-AyUL-c2L.jpg
+2025-05-26 22:17:33,002 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img5.jpg from https://m.media-amazon.com/images/I/21irBFnTYoL.jpg
+2025-05-26 22:17:33,512 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51hCzg4ZW0L.jpg
+2025-05-26 22:17:33,998 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DCNWN8NZ_allsrp_img7.jpg from https://m.media-amazon.com/images/I/21mBHuYOgiL.jpg
+2025-05-26 22:17:34,312 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DCNWN8NZ
+2025-05-26 22:17:34,312 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DCNWN8NZ done) ---
+2025-05-26 22:17:39,325 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B07QJYB8BC (36/60)
+2025-05-26 22:17:39,326 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Mi-Earphone-Basic-Ultra-deep/dp/B07QJYB8BC
+2025-05-26 22:17:48,001 - INFO - scrape_all_product_images.py:167 -     Found 63 potential URLs via generic script regex.
+2025-05-26 22:17:48,001 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 62
+2025-05-26 22:17:48,002 - INFO - scrape_all_product_images.py:239 -     Returning 12 unique, filtered image URLs for https://www.amazon.in/Mi-Earphone-Basic-Ultra-deep/dp/B07QJYB8BC.
+2025-05-26 22:17:48,002 - INFO - scrape_all_product_images.py:278 -   Attempting to download 12 images for B07QJYB8BC.
+2025-05-26 22:17:49,408 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img1.jpg from https://m.media-amazon.com/images/I/31FNekQ11tL.jpg
+2025-05-26 22:17:50,405 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31eiFeP3cYL.jpg
+2025-05-26 22:17:51,176 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71qL++TSatL.jpg
+2025-05-26 22:17:52,037 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71mES0L-5FL.jpg
+2025-05-26 22:17:52,832 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img5.jpg from https://m.media-amazon.com/images/I/31RlYoWyrSL.jpg
+2025-05-26 22:17:53,375 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img6.jpg from https://m.media-amazon.com/images/I/315RgxvMbHL.jpg
+2025-05-26 22:17:53,906 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07QJYB8BC_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41Zr-3JCbeL.jpg
+2025-05-26 22:17:54,209 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B07QJYB8BC
+2025-05-26 22:17:54,210 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B07QJYB8BC done) ---
+2025-05-26 22:17:59,219 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CD4BRZXW (37/60)
+2025-05-26 22:17:59,220 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/OIVO-INDIA-Headphone-Supporting-Headphones/dp/B0CD4BRZXW
+2025-05-26 22:18:06,720 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:18:06,722 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:18:06,723 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/OIVO-INDIA-Headphone-Supporting-Headphones/dp/B0CD4BRZXW.
+2025-05-26 22:18:06,723 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0CD4BRZXW.
+2025-05-26 22:18:06,862 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61U8qJURf8L.jpg
+2025-05-26 22:18:07,307 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61P2YQ8Y-4L.jpg
+2025-05-26 22:18:07,774 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img3.jpg from https://m.media-amazon.com/images/I/61t6Aya1p5L.jpg
+2025-05-26 22:18:08,230 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img4.jpg from https://m.media-amazon.com/images/I/6127Q+gKB1L.jpg
+2025-05-26 22:18:08,744 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41B3sJPAFxL.jpg
+2025-05-26 22:18:09,168 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51nAbVtQiPL.jpg
+2025-05-26 22:18:09,694 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD4BRZXW_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41T+7rn-aYL.jpg
+2025-05-26 22:18:10,000 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CD4BRZXW
+2025-05-26 22:18:10,000 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CD4BRZXW done) ---
+2025-05-26 22:18:15,005 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CBG1YG5F (38/60)
+2025-05-26 22:18:15,010 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/HAMMER-Bash-Max-Bluetooth-Headphones/dp/B0CBG1YG5F
+2025-05-26 22:18:23,298 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:18:23,299 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:18:23,300 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/HAMMER-Bash-Max-Bluetooth-Headphones/dp/B0CBG1YG5F.
+2025-05-26 22:18:23,300 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CBG1YG5F.
+2025-05-26 22:18:25,751 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61J9Qo4LmcL.jpg
+2025-05-26 22:18:26,324 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img2.jpg from https://m.media-amazon.com/images/I/818xoO0JR6L.jpg
+2025-05-26 22:18:26,832 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71VnTUK8uFL.jpg
+2025-05-26 22:18:27,400 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61r-0fdnioL.jpg
+2025-05-26 22:18:27,952 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img5.jpg from https://m.media-amazon.com/images/I/81FxA1V9eML.jpg
+2025-05-26 22:18:28,449 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img6.jpg from https://m.media-amazon.com/images/I/61LXdoeSvbL.jpg
+2025-05-26 22:18:28,934 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CBG1YG5F_allsrp_img7.jpg from https://m.media-amazon.com/images/I/51YvDsZWZ+L.jpg
+2025-05-26 22:18:29,236 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CBG1YG5F
+2025-05-26 22:18:29,236 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CBG1YG5F done) ---
+2025-05-26 22:18:34,245 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CCRZPKR1 (39/60)
+2025-05-26 22:18:34,249 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sennheiser-Momentum-Wireless-Headphones-Designed/dp/B0CCRZPKR1
+2025-05-26 22:18:53,565 - INFO - scrape_all_product_images.py:167 -     Found 83 potential URLs via generic script regex.
+2025-05-26 22:18:53,566 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 82
+2025-05-26 22:18:53,567 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/Sennheiser-Momentum-Wireless-Headphones-Designed/dp/B0CCRZPKR1.
+2025-05-26 22:18:53,567 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0CCRZPKR1.
+2025-05-26 22:18:53,989 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71sLOtsK2UL.jpg
+2025-05-26 22:18:54,810 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img2.jpg from https://m.media-amazon.com/images/I/81W3MD8zwcL.jpg
+2025-05-26 22:18:55,370 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71bRFFsEcvL.jpg
+2025-05-26 22:18:55,786 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img4.jpg from https://m.media-amazon.com/images/I/416rv5cNSVL.jpg
+2025-05-26 22:18:56,245 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img5.jpg from https://m.media-amazon.com/images/I/514xeEyUAqL.jpg
+2025-05-26 22:18:56,833 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81I8X9cBJzL.jpg
+2025-05-26 22:18:57,257 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCRZPKR1_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41WGicV3+xL.jpg
+2025-05-26 22:18:57,559 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CCRZPKR1
+2025-05-26 22:18:57,560 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CCRZPKR1 done) ---
+2025-05-26 22:19:02,569 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B084BVXCBF (40/60)
+2025-05-26 22:19:02,571 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Zeb-Storm-Microphone-Adjustable-Lightweight/dp/B084BVXCBF
+2025-05-26 22:19:11,139 - INFO - scrape_all_product_images.py:167 -     Found 62 potential URLs via generic script regex.
+2025-05-26 22:19:11,142 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 60
+2025-05-26 22:19:11,143 - INFO - scrape_all_product_images.py:239 -     Returning 11 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Zeb-Storm-Microphone-Adjustable-Lightweight/dp/B084BVXCBF.
+2025-05-26 22:19:11,143 - INFO - scrape_all_product_images.py:278 -   Attempting to download 11 images for B084BVXCBF.
+2025-05-26 22:19:11,322 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img1.jpg from https://m.media-amazon.com/images/I/412Wy4K+QcL.jpg
+2025-05-26 22:19:11,848 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61psBl7rPTL.jpg
+2025-05-26 22:19:12,347 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41J66lGAdOL.jpg
+2025-05-26 22:19:12,825 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img4.jpg from https://m.media-amazon.com/images/I/519inROMuwL.jpg
+2025-05-26 22:19:13,348 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41lcWPRy6ZL.jpg
+2025-05-26 22:19:14,110 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51gzMWjUY1L.jpg
+2025-05-26 22:19:14,790 - INFO - scrape_all_product_images.py:99 -       Downloaded: B084BVXCBF_allsrp_img7.jpg from https://m.media-amazon.com/images/I/61kpjNfkIhL.jpg
+2025-05-26 22:19:15,093 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B084BVXCBF
+2025-05-26 22:19:15,094 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B084BVXCBF done) ---
+2025-05-26 22:19:20,188 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DGV465ZW (41/60)
+2025-05-26 22:19:20,353 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Noise-Launched-Wireless-Over-Ear-Headphones/dp/B0DGV465ZW
+2025-05-26 22:19:31,103 - INFO - scrape_all_product_images.py:167 -     Found 83 potential URLs via generic script regex.
+2025-05-26 22:19:31,103 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 82
+2025-05-26 22:19:31,104 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/Noise-Launched-Wireless-Over-Ear-Headphones/dp/B0DGV465ZW.
+2025-05-26 22:19:31,104 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0DGV465ZW.
+2025-05-26 22:19:31,260 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61MXLJNBvYL.jpg
+2025-05-26 22:19:31,798 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71xjsZv9FmL.jpg
+2025-05-26 22:19:32,225 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img3.jpg from https://m.media-amazon.com/images/I/31bRqBq0fIL.jpg
+2025-05-26 22:19:32,681 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61HcONRF9nL.jpg
+2025-05-26 22:19:33,090 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img5.jpg from https://m.media-amazon.com/images/I/415yLX1nt5L.jpg
+2025-05-26 22:19:33,591 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51qvYePklsL.jpg
+2025-05-26 22:19:34,091 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGV465ZW_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41OaDNqvrVL.jpg
+2025-05-26 22:19:34,393 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DGV465ZW
+2025-05-26 22:19:34,394 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DGV465ZW done) ---
+2025-05-26 22:19:39,401 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D5HGMN72 (42/60)
+2025-05-26 22:19:39,402 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-460-Headphones-Signature/dp/B0D5HGMN72
+2025-05-26 22:19:52,826 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:19:52,827 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:19:52,827 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-460-Headphones-Signature/dp/B0D5HGMN72.
+2025-05-26 22:19:52,827 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B0D5HGMN72.
+2025-05-26 22:19:53,413 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71pjh2yhzyL.jpg
+2025-05-26 22:19:54,226 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71PoaFakghL.jpg
+2025-05-26 22:19:54,752 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41cyUBDOy0L.jpg
+2025-05-26 22:19:55,308 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41AkzTixcIL.jpg
+2025-05-26 22:19:55,739 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41oOlYMxz1L.jpg
+2025-05-26 22:19:56,390 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img6.jpg from https://m.media-amazon.com/images/I/614quIsW-tL.jpg
+2025-05-26 22:19:57,031 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HGMN72_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71C8rL7hAIL.jpg
+2025-05-26 22:19:57,376 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D5HGMN72
+2025-05-26 22:19:57,377 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D5HGMN72 done) ---
+2025-05-26 22:20:02,383 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D1VN2VB7 (43/60)
+2025-05-26 22:20:02,384 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Marshall-Major-Wireless-Headphones-Black/dp/B0D1VN2VB7
+2025-05-26 22:20:11,692 - INFO - scrape_all_product_images.py:167 -     Found 123 potential URLs via generic script regex.
+2025-05-26 22:20:11,692 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 122
+2025-05-26 22:20:11,694 - INFO - scrape_all_product_images.py:239 -     Returning 24 unique, filtered image URLs for https://www.amazon.in/Marshall-Major-Wireless-Headphones-Black/dp/B0D1VN2VB7.
+2025-05-26 22:20:11,694 - INFO - scrape_all_product_images.py:278 -   Attempting to download 24 images for B0D1VN2VB7.
+2025-05-26 22:20:11,858 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img1.jpg from https://m.media-amazon.com/images/I/31oUoBT0WfL.jpg
+2025-05-26 22:20:12,332 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51EOLfhuyiL.jpg
+2025-05-26 22:20:12,766 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51yAp4eIqTL.jpg
+2025-05-26 22:20:13,260 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41hljjQbJOL.jpg
+2025-05-26 22:20:13,724 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51K8eJaYsKL.jpg
+2025-05-26 22:20:14,226 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img6.jpg from https://m.media-amazon.com/images/I/31AyIL5peyL.jpg
+2025-05-26 22:20:14,704 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D1VN2VB7_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41JfyTRMU5L.jpg
+2025-05-26 22:20:15,009 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D1VN2VB7
+2025-05-26 22:20:15,010 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D1VN2VB7 done) ---
+2025-05-26 22:20:20,201 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CZF1H82V (44/60)
+2025-05-26 22:20:20,216 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Wireless-Headphone-Supports-Bluetooth/dp/B0CZF1H82V
+2025-05-26 22:20:38,914 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:20:38,914 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:20:38,915 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Wireless-Headphone-Supports-Bluetooth/dp/B0CZF1H82V.
+2025-05-26 22:20:38,915 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CZF1H82V.
+2025-05-26 22:20:39,339 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71+Ehd1itvL.jpg
+2025-05-26 22:20:39,893 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71clRZ2Tl5L.jpg
+2025-05-26 22:20:40,503 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71fhts83BKL.jpg
+2025-05-26 22:20:41,002 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41cwwpS84tL.jpg
+2025-05-26 22:20:41,512 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img5.jpg from https://m.media-amazon.com/images/I/315YtzsNPDL.jpg
+2025-05-26 22:20:42,461 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81tTUd4EqyL.jpg
+2025-05-26 22:20:42,884 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CZF1H82V_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41HFqEr055L.jpg
+2025-05-26 22:20:43,188 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CZF1H82V
+2025-05-26 22:20:43,189 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CZF1H82V done) ---
+2025-05-26 22:20:48,198 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CWVX1GNX (45/60)
+2025-05-26 22:20:48,199 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX
+2025-05-26 22:20:59,427 - INFO - scrape_all_product_images.py:167 -     Found 133 potential URLs via generic script regex.
+2025-05-26 22:20:59,428 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 132
+2025-05-26 22:20:59,429 - INFO - scrape_all_product_images.py:239 -     Returning 26 unique, filtered image URLs for https://www.amazon.in/Sony-Headphones-Wh-Ult900N-Cancelling-Pair-Black/dp/B0CWVX1GNX.
+2025-05-26 22:20:59,429 - INFO - scrape_all_product_images.py:278 -   Attempting to download 26 images for B0CWVX1GNX.
+2025-05-26 22:21:01,937 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81XuRhG0u4L.jpg
+2025-05-26 22:21:02,804 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71cjzbkk1NL.jpg
+2025-05-26 22:21:03,230 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img3.jpg from https://m.media-amazon.com/images/I/31WSqEyDptL.jpg
+2025-05-26 22:21:04,093 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71uzmM9WvUL.jpg
+2025-05-26 22:21:04,532 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img5.jpg from https://m.media-amazon.com/images/I/414VrxVHV0L.jpg
+2025-05-26 22:21:05,887 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81kp3YcM4ML.jpg
+2025-05-26 22:21:06,455 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CWVX1GNX_allsrp_img7.jpg from https://m.media-amazon.com/images/I/413ypfCt9VL.jpg
+2025-05-26 22:21:06,761 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CWVX1GNX
+2025-05-26 22:21:06,762 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CWVX1GNX done) ---
+2025-05-26 22:21:11,782 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0BS1RT9S2 (46/60)
+2025-05-26 22:21:11,783 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1RT9S2
+2025-05-26 22:21:20,653 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:21:20,653 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:21:20,655 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/Sony-Bluetooth-Headphones-Multipoint-Connectivity/dp/B0BS1RT9S2.
+2025-05-26 22:21:20,655 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0BS1RT9S2.
+2025-05-26 22:21:21,210 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img1.jpg from https://m.media-amazon.com/images/I/811UeUfPYdL.jpg
+2025-05-26 22:21:21,689 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img2.jpg from https://m.media-amazon.com/images/I/51UBVW9enzL.jpg
+2025-05-26 22:21:22,080 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41HbBZjepVL.jpg
+2025-05-26 22:21:22,541 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41jR+301vvL.jpg
+2025-05-26 22:21:22,924 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51Xtx2HpemL.jpg
+2025-05-26 22:21:23,483 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81bncfm5veL.jpg
+2025-05-26 22:21:24,058 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS1RT9S2_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71Le-tTWbsL.jpg
+2025-05-26 22:21:24,364 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0BS1RT9S2
+2025-05-26 22:21:24,365 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0BS1RT9S2 done) ---
+2025-05-26 22:21:29,388 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DFHGX8R3 (47/60)
+2025-05-26 22:21:29,389 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boult-Bluetooth-Headphones-Playtime-Charging/dp/B0DFHGX8R3
+2025-05-26 22:21:37,121 - INFO - scrape_all_product_images.py:167 -     Found 123 potential URLs via generic script regex.
+2025-05-26 22:21:37,124 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 122
+2025-05-26 22:21:37,125 - INFO - scrape_all_product_images.py:239 -     Returning 24 unique, filtered image URLs for https://www.amazon.in/Boult-Bluetooth-Headphones-Playtime-Charging/dp/B0DFHGX8R3.
+2025-05-26 22:21:37,125 - INFO - scrape_all_product_images.py:278 -   Attempting to download 24 images for B0DFHGX8R3.
+2025-05-26 22:21:37,430 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img1.jpg from https://m.media-amazon.com/images/I/818PFiCvixL.jpg
+2025-05-26 22:21:37,792 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31TP3LhGyVL.jpg
+2025-05-26 22:21:38,705 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71736kqvBPL.jpg
+2025-05-26 22:21:39,249 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img4.jpg from https://m.media-amazon.com/images/I/81RQ5vQPo1L.jpg
+2025-05-26 22:21:40,162 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img5.jpg from https://m.media-amazon.com/images/I/81v6O+PSWHL.jpg
+2025-05-26 22:21:40,599 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img6.jpg from https://m.media-amazon.com/images/I/514TJPbhaQL.jpg
+2025-05-26 22:21:41,057 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFHGX8R3_allsrp_img7.jpg from https://m.media-amazon.com/images/I/81yHfu6T+AL.jpg
+2025-05-26 22:21:41,360 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DFHGX8R3
+2025-05-26 22:21:41,361 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DFHGX8R3 done) ---
+2025-05-26 22:21:46,378 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DFDT1TWC (48/60)
+2025-05-26 22:21:46,379 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Marshall-Monitor-Canceling-Bluetooth-Headphones/dp/B0DFDT1TWC
+2025-05-26 22:21:55,750 - INFO - scrape_all_product_images.py:167 -     Found 113 potential URLs via generic script regex.
+2025-05-26 22:21:55,750 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 112
+2025-05-26 22:21:55,751 - INFO - scrape_all_product_images.py:239 -     Returning 22 unique, filtered image URLs for https://www.amazon.in/Marshall-Monitor-Canceling-Bluetooth-Headphones/dp/B0DFDT1TWC.
+2025-05-26 22:21:55,751 - INFO - scrape_all_product_images.py:278 -   Attempting to download 22 images for B0DFDT1TWC.
+2025-05-26 22:21:56,256 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81KbNnbCRhL.jpg
+2025-05-26 22:21:56,996 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img2.jpg from https://m.media-amazon.com/images/I/81zfqfyItfL.jpg
+2025-05-26 22:21:57,999 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img3.jpg from https://m.media-amazon.com/images/I/81zMt3H4p6L.jpg
+2025-05-26 22:21:58,584 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71Sd-TD1lPL.jpg
+2025-05-26 22:21:59,047 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41M-gkKkkuL.jpg
+2025-05-26 22:21:59,623 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81M31hLf2NL.jpg
+2025-05-26 22:22:00,194 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DFDT1TWC_allsrp_img7.jpg from https://m.media-amazon.com/images/I/818W9Q94jrL.jpg
+2025-05-26 22:22:00,499 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DFDT1TWC
+2025-05-26 22:22:00,500 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DFDT1TWC done) ---
+2025-05-26 22:22:05,509 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08CHPGTSF (49/60)
+2025-05-26 22:22:05,510 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Zebronics-Zeb-200HM-Headphone-Mic/dp/B08CHPGTSF
+2025-05-26 22:22:21,336 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:22:21,336 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:22:21,336 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/Zebronics-Zeb-200HM-Headphone-Mic/dp/B08CHPGTSF.
+2025-05-26 22:22:21,336 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B08CHPGTSF.
+2025-05-26 22:22:21,604 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71CukwStJOL.jpg
+2025-05-26 22:22:22,160 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img2.jpg from https://m.media-amazon.com/images/I/81mCmThCQuL.jpg
+2025-05-26 22:22:22,827 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img3.jpg from https://m.media-amazon.com/images/I/81-Kpn51+ML.jpg
+2025-05-26 22:22:23,234 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41xGVMrS8kL.jpg
+2025-05-26 22:22:23,653 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41he7Br9yFL.jpg
+2025-05-26 22:22:24,078 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41BHjwUSHCL.jpg
+2025-05-26 22:22:24,625 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08CHPGTSF_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71j8uK5UNTL.jpg
+2025-05-26 22:22:24,930 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08CHPGTSF
+2025-05-26 22:22:24,930 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08CHPGTSF done) ---
+2025-05-26 22:22:29,944 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D5HJNQD9 (50/60)
+2025-05-26 22:22:29,945 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-460-Headphones-Assistant/dp/B0D5HJNQD9
+2025-05-26 22:22:37,770 - INFO - scrape_all_product_images.py:167 -     Found 53 potential URLs via generic script regex.
+2025-05-26 22:22:37,771 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 52
+2025-05-26 22:22:37,771 - INFO - scrape_all_product_images.py:239 -     Returning 10 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-460-Headphones-Assistant/dp/B0D5HJNQD9.
+2025-05-26 22:22:37,771 - INFO - scrape_all_product_images.py:278 -   Attempting to download 10 images for B0D5HJNQD9.
+2025-05-26 22:22:37,940 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img1.jpg from https://m.media-amazon.com/images/I/614fed5NnKL.jpg
+2025-05-26 22:22:38,411 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img2.jpg from https://m.media-amazon.com/images/I/7144QIGqwuL.jpg
+2025-05-26 22:22:38,863 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71-1+SOPHpL.jpg
+2025-05-26 22:22:39,302 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img4.jpg from https://m.media-amazon.com/images/I/41cyUBDOy0L.jpg
+2025-05-26 22:22:39,724 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41J-kEfMG9L.jpg
+2025-05-26 22:22:40,203 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41mOrHP61YL.jpg
+2025-05-26 22:22:40,693 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D5HJNQD9_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71C8rL7hAIL.jpg
+2025-05-26 22:22:40,997 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D5HJNQD9
+2025-05-26 22:22:40,998 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D5HJNQD9 done) ---
+2025-05-26 22:22:46,005 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0B5RL2G3S (51/60)
+2025-05-26 22:22:46,006 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-Headphone-Neodymium-Suspension-Controller/dp/B0B5RL2G3S
+2025-05-26 22:22:59,271 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:22:59,271 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:22:59,272 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-Headphone-Neodymium-Suspension-Controller/dp/B0B5RL2G3S.
+2025-05-26 22:22:59,272 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0B5RL2G3S.
+2025-05-26 22:22:59,749 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img1.jpg from https://m.media-amazon.com/images/I/71mhR8Gb1kL.jpg
+2025-05-26 22:23:00,437 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img2.jpg from https://m.media-amazon.com/images/I/717l8t+5dEL.jpg
+2025-05-26 22:23:00,895 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41x390ObJ+L.jpg
+2025-05-26 22:23:01,531 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img4.jpg from https://m.media-amazon.com/images/I/61iuQZxzcCL.jpg
+2025-05-26 22:23:02,081 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41kEh9I7L9L.jpg
+2025-05-26 22:23:03,045 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img6.jpg from https://m.media-amazon.com/images/I/81oDuRn+BgL.jpg
+2025-05-26 22:23:03,654 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0B5RL2G3S_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71D1EB5iDzL.jpg
+2025-05-26 22:23:03,960 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0B5RL2G3S
+2025-05-26 22:23:03,961 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0B5RL2G3S done) ---
+2025-05-26 22:23:08,969 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B07GQD4K6L (52/60)
+2025-05-26 22:23:08,970 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Boat-BassHeads-100-Inspired-Earphones/dp/B07GQD4K6L
+2025-05-26 22:23:17,421 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:23:17,422 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 92
+2025-05-26 22:23:17,424 - INFO - scrape_all_product_images.py:239 -     Returning 18 unique, filtered image URLs for https://www.amazon.in/Boat-BassHeads-100-Inspired-Earphones/dp/B07GQD4K6L.
+2025-05-26 22:23:17,425 - INFO - scrape_all_product_images.py:278 -   Attempting to download 18 images for B07GQD4K6L.
+2025-05-26 22:23:18,198 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img1.jpg from https://m.media-amazon.com/images/I/314FM4nXQXL.jpg
+2025-05-26 22:23:19,629 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71sNp5lXwzL.jpg
+2025-05-26 22:23:20,687 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img3.jpg from https://m.media-amazon.com/images/I/41DjQTGMzKL.jpg
+2025-05-26 22:23:21,753 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img4.jpg from https://m.media-amazon.com/images/I/31HuDXijkvL.jpg
+2025-05-26 22:23:23,250 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41W9Zaky-lL.jpg
+2025-05-26 22:23:23,812 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img6.jpg from https://m.media-amazon.com/images/I/51wNj92U9NL.jpg
+2025-05-26 22:23:26,527 - INFO - scrape_all_product_images.py:99 -       Downloaded: B07GQD4K6L_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71TVGbJAVmL.jpg
+2025-05-26 22:23:26,828 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B07GQD4K6L
+2025-05-26 22:23:26,829 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B07GQD4K6L done) ---
+2025-05-26 22:23:31,836 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0BS74M665 (53/60)
+2025-05-26 22:23:31,837 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS74M665
+2025-05-26 22:23:41,246 - INFO - scrape_all_product_images.py:167 -     Found 133 potential URLs via generic script regex.
+2025-05-26 22:23:41,246 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 132
+2025-05-26 22:23:41,248 - INFO - scrape_all_product_images.py:239 -     Returning 26 unique, filtered image URLs for https://www.amazon.in/Sony-Cancellation-Headphones-Multi-Point-Connection/dp/B0BS74M665.
+2025-05-26 22:23:41,248 - INFO - scrape_all_product_images.py:278 -   Attempting to download 26 images for B0BS74M665.
+2025-05-26 22:23:41,446 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41syo-ZDVhL.jpg
+2025-05-26 22:23:41,874 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31PFiCIw3WL.jpg
+2025-05-26 22:23:42,719 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71l4F-4Mc2L.jpg
+2025-05-26 22:23:43,572 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img4.jpg from https://m.media-amazon.com/images/I/91hx2gnY0qL.jpg
+2025-05-26 22:23:44,005 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img5.jpg from https://m.media-amazon.com/images/I/4171WaQqNBL.jpg
+2025-05-26 22:23:44,484 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41wgFRtWyaL.jpg
+2025-05-26 22:23:45,004 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0BS74M665_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41vJBEc0FtL.jpg
+2025-05-26 22:23:45,309 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0BS74M665
+2025-05-26 22:23:45,309 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0BS74M665 done) ---
+2025-05-26 22:23:50,338 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B08KHT2HDT (54/60)
+2025-05-26 22:23:50,339 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Marshall-Major-Foldable-Bluetooth-Headphones/dp/B08KHT2HDT
+2025-05-26 22:23:59,074 - INFO - scrape_all_product_images.py:167 -     Found 123 potential URLs via generic script regex.
+2025-05-26 22:23:59,075 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 122
+2025-05-26 22:23:59,077 - INFO - scrape_all_product_images.py:239 -     Returning 24 unique, filtered image URLs for https://www.amazon.in/Marshall-Major-Foldable-Bluetooth-Headphones/dp/B08KHT2HDT.
+2025-05-26 22:23:59,077 - INFO - scrape_all_product_images.py:278 -   Attempting to download 24 images for B08KHT2HDT.
+2025-05-26 22:23:59,334 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41+VIYWCAeL.jpg
+2025-05-26 22:24:00,170 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71TJ0btVDJL.jpg
+2025-05-26 22:24:01,457 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img3.jpg from https://m.media-amazon.com/images/I/81vMw-QLpYL.jpg
+2025-05-26 22:24:02,168 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71mTfSKhhTL.jpg
+2025-05-26 22:24:03,347 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img5.jpg from https://m.media-amazon.com/images/I/81O14QSsMXL.jpg
+2025-05-26 22:24:03,861 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img6.jpg from https://m.media-amazon.com/images/I/31oAN1QgifL.jpg
+2025-05-26 22:24:04,369 - INFO - scrape_all_product_images.py:99 -       Downloaded: B08KHT2HDT_allsrp_img7.jpg from https://m.media-amazon.com/images/I/21Hto1F6bNL.jpg
+2025-05-26 22:24:04,726 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B08KHT2HDT
+2025-05-26 22:24:04,751 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B08KHT2HDT done) ---
+2025-05-26 22:24:09,809 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CVGYY9DM (55/60)
+2025-05-26 22:24:09,810 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/ZEBRONICS-PRO-Headphone-Bluetooth-Assistant/dp/B0CVGYY9DM
+2025-05-26 22:24:40,506 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:24:40,507 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:24:40,507 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/ZEBRONICS-PRO-Headphone-Bluetooth-Assistant/dp/B0CVGYY9DM.
+2025-05-26 22:24:40,507 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CVGYY9DM.
+2025-05-26 22:24:42,258 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81KIXlTwbXL.jpg
+2025-05-26 22:24:42,808 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img2.jpg from https://m.media-amazon.com/images/I/71eodAbQGpL.jpg
+2025-05-26 22:24:43,347 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71BmyXQ2KAL.jpg
+2025-05-26 22:24:43,838 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51mnzri0RyL.jpg
+2025-05-26 22:24:44,467 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img5.jpg from https://m.media-amazon.com/images/I/71HxrDBNm3L.jpg
+2025-05-26 22:24:45,210 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img6.jpg from https://m.media-amazon.com/images/I/61yv8wDBr8L.jpg
+2025-05-26 22:24:46,028 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CVGYY9DM_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71s4Iv38J8L.jpg
+2025-05-26 22:24:46,333 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CVGYY9DM
+2025-05-26 22:24:46,334 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CVGYY9DM done) ---
+2025-05-26 22:24:51,354 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0C3HCD34R (56/60)
+2025-05-26 22:24:51,355 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/soundcore-Bluetooth-Headphones-Cancelling-Personalization/dp/B0C3HCD34R
+2025-05-26 22:25:02,278 - INFO - scrape_all_product_images.py:167 -     Found 83 potential URLs via generic script regex.
+2025-05-26 22:25:02,278 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 82
+2025-05-26 22:25:02,279 - INFO - scrape_all_product_images.py:239 -     Returning 16 unique, filtered image URLs for https://www.amazon.in/soundcore-Bluetooth-Headphones-Cancelling-Personalization/dp/B0C3HCD34R.
+2025-05-26 22:25:02,279 - INFO - scrape_all_product_images.py:278 -   Attempting to download 16 images for B0C3HCD34R.
+2025-05-26 22:25:03,541 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41jcCpExIzL.jpg
+2025-05-26 22:25:05,068 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img2.jpg from https://m.media-amazon.com/images/I/41ZJ-PtHj2L.jpg
+2025-05-26 22:25:05,781 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51F8qRzaAUL.jpg
+2025-05-26 22:25:06,240 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img4.jpg from https://m.media-amazon.com/images/I/51rrwsr5PTL.jpg
+2025-05-26 22:25:06,933 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51uk6LRlRlL.jpg
+2025-05-26 22:25:07,593 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71hjM8o8zbL.jpg
+2025-05-26 22:25:08,330 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0C3HCD34R_allsrp_img7.jpg from https://m.media-amazon.com/images/I/71QXtDpn+5L.jpg
+2025-05-26 22:25:08,635 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0C3HCD34R
+2025-05-26 22:25:08,636 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0C3HCD34R done) ---
+2025-05-26 22:25:13,658 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0D2HKCMBP (57/60)
+2025-05-26 22:25:13,659 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/SHOKZ-Conduction-Headphones-Cancelling-Waterproof/dp/B0D2HKCMBP
+2025-05-26 22:26:40,122 - INFO - scrape_all_product_images.py:167 -     Found 103 potential URLs via generic script regex.
+2025-05-26 22:26:40,123 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 102
+2025-05-26 22:26:40,124 - INFO - scrape_all_product_images.py:239 -     Returning 20 unique, filtered image URLs for https://www.amazon.in/SHOKZ-Conduction-Headphones-Cancelling-Waterproof/dp/B0D2HKCMBP.
+2025-05-26 22:26:40,124 - INFO - scrape_all_product_images.py:278 -   Attempting to download 20 images for B0D2HKCMBP.
+2025-05-26 22:26:40,442 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img1.jpg from https://m.media-amazon.com/images/I/81biovtO0jL.jpg
+2025-05-26 22:26:41,032 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61rHVYigOSL.jpg
+2025-05-26 22:26:41,502 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71pHFZ9WkGL.jpg
+2025-05-26 22:26:41,899 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img4.jpg from https://m.media-amazon.com/images/I/212C4tzT1dL.jpg
+2025-05-26 22:26:42,373 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img5.jpg from https://m.media-amazon.com/images/I/41ibYP+-0SL.jpg
+2025-05-26 22:26:42,864 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41AXFRdMOZL.jpg
+2025-05-26 22:26:43,337 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0D2HKCMBP_allsrp_img7.jpg from https://m.media-amazon.com/images/I/41M1ovZeqWL.jpg
+2025-05-26 22:26:43,642 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0D2HKCMBP
+2025-05-26 22:26:43,643 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0D2HKCMBP done) ---
+2025-05-26 22:26:48,672 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0DGTT5733 (58/60)
+2025-05-26 22:26:48,673 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/boAt-Rockerz-551-ANC-Pro/dp/B0DGTT5733
+2025-05-26 22:26:57,702 - INFO - scrape_all_product_images.py:167 -     Found 133 potential URLs via generic script regex.
+2025-05-26 22:26:57,702 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 132
+2025-05-26 22:26:57,704 - INFO - scrape_all_product_images.py:239 -     Returning 26 unique, filtered image URLs for https://www.amazon.in/boAt-Rockerz-551-ANC-Pro/dp/B0DGTT5733.
+2025-05-26 22:26:57,704 - INFO - scrape_all_product_images.py:278 -   Attempting to download 26 images for B0DGTT5733.
+2025-05-26 22:26:58,294 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img1.jpg from https://m.media-amazon.com/images/I/7116DmqUusL.jpg
+2025-05-26 22:26:58,987 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61RyfuAb4dL.jpg
+2025-05-26 22:26:59,479 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img3.jpg from https://m.media-amazon.com/images/I/71tZWGNlPyL.jpg
+2025-05-26 22:26:59,949 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71hF-xSnWdL.jpg
+2025-05-26 22:27:00,496 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img5.jpg from https://m.media-amazon.com/images/I/61LGTOq-neL.jpg
+2025-05-26 22:27:01,019 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img6.jpg from https://m.media-amazon.com/images/I/615Nf7elqQL.jpg
+2025-05-26 22:27:01,580 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0DGTT5733_allsrp_img7.jpg from https://m.media-amazon.com/images/I/81+VA2+XVZL.jpg
+2025-05-26 22:27:01,906 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0DGTT5733
+2025-05-26 22:27:01,915 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0DGTT5733 done) ---
+2025-05-26 22:27:06,939 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CD1FHLMH (59/60)
+2025-05-26 22:27:06,940 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/soundcore-Headphones-Lightweight-Comfortable-Connectivity/dp/B0CD1FHLMH
+2025-05-26 22:27:15,502 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:27:15,503 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:27:15,503 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/soundcore-Headphones-Lightweight-Comfortable-Connectivity/dp/B0CD1FHLMH.
+2025-05-26 22:27:15,503 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CD1FHLMH.
+2025-05-26 22:27:15,623 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img1.jpg from https://m.media-amazon.com/images/I/61SNaslx5FL.jpg
+2025-05-26 22:27:16,054 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img2.jpg from https://m.media-amazon.com/images/I/31si1qniyuL.jpg
+2025-05-26 22:27:16,454 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img3.jpg from https://m.media-amazon.com/images/I/418qfBsN+qL.jpg
+2025-05-26 22:27:16,920 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71DvXO55kRL.jpg
+2025-05-26 22:27:17,410 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img5.jpg from https://m.media-amazon.com/images/I/811+EZ6UodL.jpg
+2025-05-26 22:27:17,886 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img6.jpg from https://m.media-amazon.com/images/I/71EO+cy-PKL.jpg
+2025-05-26 22:27:18,295 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CD1FHLMH_allsrp_img7.jpg from https://m.media-amazon.com/images/I/31DPJfHzdwL.jpg
+2025-05-26 22:27:18,601 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CD1FHLMH
+2025-05-26 22:27:18,601 - INFO - scrape_all_product_images.py:301 - --- Delaying for 5 seconds before next product (B0CD1FHLMH done) ---
+2025-05-26 22:27:23,632 - INFO - scrape_all_product_images.py:269 - 
+Processing Product ID: B0CCZ1HQ39 (60/60)
+2025-05-26 22:27:23,633 - INFO - scrape_all_product_images.py:109 -   Scraping images from: https://www.amazon.in/Bose-QuietComfort-Wireless-Cancelling-Headphones/dp/B0CCZ1HQ39
+2025-05-26 22:27:32,051 - INFO - scrape_all_product_images.py:167 -     Found 73 potential URLs via generic script regex.
+2025-05-26 22:27:32,051 - INFO - scrape_all_product_images.py:171 -     After Strategy 1 (Script Parsing), current total unique URLs: 72
+2025-05-26 22:27:32,052 - INFO - scrape_all_product_images.py:239 -     Returning 14 unique, filtered image URLs for https://www.amazon.in/Bose-QuietComfort-Wireless-Cancelling-Headphones/dp/B0CCZ1HQ39.
+2025-05-26 22:27:32,052 - INFO - scrape_all_product_images.py:278 -   Attempting to download 14 images for B0CCZ1HQ39.
+2025-05-26 22:27:32,224 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img1.jpg from https://m.media-amazon.com/images/I/41MpSeR7i9L.jpg
+2025-05-26 22:27:32,684 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img2.jpg from https://m.media-amazon.com/images/I/61ARqaLBktL.jpg
+2025-05-26 22:27:33,182 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img3.jpg from https://m.media-amazon.com/images/I/51AYjJpFSuL.jpg
+2025-05-26 22:27:33,710 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img4.jpg from https://m.media-amazon.com/images/I/71SBQ9hBnmL.jpg
+2025-05-26 22:27:34,143 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img5.jpg from https://m.media-amazon.com/images/I/51JZWUbq9OL.jpg
+2025-05-26 22:27:34,609 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img6.jpg from https://m.media-amazon.com/images/I/41GC00EqFIL.jpg
+2025-05-26 22:27:35,078 - INFO - scrape_all_product_images.py:99 -       Downloaded: B0CCZ1HQ39_allsrp_img7.jpg from https://m.media-amazon.com/images/I/31hOK336e9L.jpg
+2025-05-26 22:27:35,384 - INFO - scrape_all_product_images.py:281 -     Reached image limit (7) for B0CCZ1HQ39
+2025-05-26 22:27:36,525 - INFO - scrape_all_product_images.py:310 - WebDriver closed.
+2025-05-26 22:27:36,604 - INFO - scrape_all_product_images.py:315 - 
+Saved info for 417 scraped images to all_product_images_info_scraped.csv
+2025-05-26 22:27:36,657 - INFO - scrape_all_product_images.py:340 - Updated products CSV with potentially new image paths saved to /Users/amankumar/Desktop/Aims/final data/products_final_with_all_image_paths.csv
+2025-05-26 22:27:36,657 - INFO - scrape_all_product_images.py:342 - 
+Image scraping from URLs process complete.

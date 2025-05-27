@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multimodal Shopping Assistant</title>
+    <link rel="stylesheet" href="/style.css"> <!-- Or ./style.css if served from same dir -->
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🛍️ Visual Shopping Assistant</h1>
+            <p>Built by Aman Kumar (Iterative RAG System)</p>
+        </header>
+
+        <div class="iteration-selector">
+            <label for="iteration-choice">Select Bot Iteration:</label>
+            <select id="iteration-choice">
+                <option value="v3">Iteration 3 (Deep Multimodal + OCR)</option>
+                <option value="v2">Iteration 2 (Enhanced Captions + ViLT)</option>
+                <option value="v1">Iteration 1 (Text-Centric + Basic Image)</option>
+            </select>
+        </div>
+
+        <div class="chat-container">
+            <div id="chat-log" class="chat-log">
+                <div class="message bot-message">Hello! How can I help you find the perfect headphones today? Select an iteration above to begin.</div>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Ask about headphones..." disabled>
+                <button id="send-button" disabled>Send</button>
+            </div>
+        </div>
+
+        <section class="iteration-info">
+            <h2>About the Iterations</h2>
+            <div id="iteration-details">
+                <!-- JS will populate this -->
+            </div>
+        </section>
+    </div>
+
+    <script src="/script.js"></script> <!-- Or ./script.js -->
+</body>
+</html>

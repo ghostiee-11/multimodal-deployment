@@ -1,0 +1,3 @@
+2025-05-27 00:35:37,679 - INFO - generate_image_textual_metadata.py:61 - CapFilt: Loaded products data ((60, 8)) from '/Users/amankumar/Desktop/Aims/final data/products_final_with_all_image_paths.csv'
+2025-05-27 00:35:37,688 - INFO - generate_image_textual_metadata.py:70 - CapFilt: Loaded relevant documents ((433, 5)) from '/Users/amankumar/Desktop/Aims/final data/all_documents.csv'
+2025-05-27 00:35:37,691 - ERROR - generate_image_textual_metadata.py:213 - Exiting: OCR input CSV '/Users/amankumar/Desktop/Aims/image_ocr_texts_.csv' is missing required columns (full_image_path, product_id, ocr_extracted_texts_json).
