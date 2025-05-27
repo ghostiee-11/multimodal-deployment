@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let clientConversationHistory = []; 
 
-    const FLASK_SERVER_URL = 'http://127.0.0.1:5016'; // Define the server URL
+    const FLASK_SERVER_URL = 'https://multimodal-deployment-4.onrender.com/api/chat'; // Define the server URL
 
     const iterationInfo = {
         v1: {
